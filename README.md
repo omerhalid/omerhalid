@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Halit Cinar 
-- 🌱 I’m currently learning Machine Learning in Python
-- 💞️ I’m looking to collaborate on any kind of software developmant projects with ambitius developers
+- 🌱 I’m currently learning Hight frequency, low latency trading software projects in c++ and rust
+- 💞️ I’m looking to collaborate on any kind of software development projects with ambitious developers
 - 📫 How to reach me www.linkedin.com/in/omerhalitcinar
 
 <!---
