@@ -4,9 +4,7 @@
 
 💞️ I’m open to collaborating on any kind of software development projects and am eager to work with ambitious developers.
 
-📫 Reach out to me on [LinkedIn](www.linkedin.com/in/omerhalitcinar).
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=omerhalid.omerhalid&left_color=green&right_color=red)
+📫 Reach out to me on www.linkedin.com/in/omerhalitcinar.
 
 <!---
 omerhalid/omerhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
