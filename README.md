@@ -4,7 +4,8 @@
 - 🤝 Open for collaboration! Excited to work on innovative software projects alongside driven developers.
 - 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerhalid&layout=compact)](https://github.com/omerhalid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerhalid&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 omerhalid/omerhalid's `README.md` displays on the GitHub profile.
