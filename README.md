@@ -4,7 +4,7 @@
 - 🤝 Open for collaboration! Excited to work on innovative software projects alongside driven developers.
 - 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omerhalid)
+<figure><embed src="https://wakatime.com/share/@018b595e-e0c9-4a16-b57e-44c25098e61b/1bcba85f-d6f9-40de-9464-8bbf191b2e2e.svg"></embed></figure>
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=omerhalid)
 
