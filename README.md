@@ -6,6 +6,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omerhalid&theme=blue-green)
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omerhalid)
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
