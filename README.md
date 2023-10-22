@@ -4,7 +4,7 @@
 - 🤝 Open for collaboration! Excited to work on innovative software projects alongside driven developers.
 - 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerhalid&layout=compact&count_private=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omerhalid&theme=blue-green)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
