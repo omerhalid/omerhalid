@@ -4,6 +4,8 @@
 - 🤝 Open for collaboration! Excited to work on innovative software projects alongside driven developers.
 - 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
+- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omerhalid)
+
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=omerhalid)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
