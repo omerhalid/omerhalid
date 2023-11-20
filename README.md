@@ -9,6 +9,9 @@
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+
 
 
 <!---
