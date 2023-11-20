@@ -1,7 +1,7 @@
 ### Hello, I'm Ömer Halit Cinar! 👋
 
-- 🌐 As a software engineer, I specialize in high-frequency, low-latency trading software with a robust foundation in C++ and Rust. My expertise extends to comprehensive backend development, where I apply principles of scalability, security, and maintainability. With a knack for crafting efficient algorithms and system architectures, I'm adept at transforming complex requirements into high-performing solutions. Whether it's optimizing data processing pipelines or engineering reliable server-side applications, I am passionate about using technology to solve challenging problems and drive innovation.
-
+- 🌐 As a software engineer, I specialize in high-frequency, low-latency trading software with a robust foundation in C++ and Rust. 
+- 👨‍💻 My expertise extends to comprehensive backend development, where I apply principles of scalability, security, and maintainability. With a knack for crafting efficient algorithms and system architectures, I'm adept at transforming complex requirements into high-performing solutions. Whether it's optimizing data processing pipelines or engineering reliable server-side applications, I am passionate about using technology to solve challenging problems and drive innovation.
 - 🤝 Open for collaboration! Excited to work on innovative software projects alongside driven developers.
 - 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
