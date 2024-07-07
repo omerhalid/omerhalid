@@ -1,6 +1,6 @@
 ### Hello, I'm Ömer Halit Cinar! 👋
 
-- 👨‍💻 I'm passionate about backend development, especially in creating scalable, secure, and easy-to-maintain solutions. I love turning tricky challenges into smooth, high-performing systems. Whether it’s optimizing data flows or building robust server-side apps, I’m all about using tech to make things better.
+- 👨‍💻 I'm passionate about backend development, especially in creating scalable, secure, and easy-to-maintain solutions. I love turning tricky challenges into smooth, high-performing systems.
 - 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
 
