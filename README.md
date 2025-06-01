@@ -1,7 +1,7 @@
 ### Hello, I'm Ömer Halit Cinar! 👋
 
-- 👨‍💻 I'm passionate about backend development, especially in creating scalable, secure, and easy-to-maintain solutions. I love turning tricky challenges into smooth, high-performing systems.
-- 📣 Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
+- I’m a C++/Python code alchemist who turns chaotic market data into razor-sharp, low-latency trading tools. Chasing alpha by day and optimizing backend performance by night, I make finance puzzles run like a dream.
+- Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
