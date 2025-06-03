@@ -1,6 +1,6 @@
 ### Hello, I'm Ömer Halit Cinar! 👋
 
-- I’m a C++/Python code alchemist who turns chaotic market data into razor-sharp, low-latency trading tools. Chasing alpha by day and optimizing backend performance by night, I make finance puzzles run like a dream.
+- C++ dev who carves nanosecond shortcuts through trading engines—and happily gets lost in any system wicked enough to call itself “complex.”
 - Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
 
