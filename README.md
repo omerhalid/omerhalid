@@ -1,6 +1,6 @@
 ### Hello, I'm Ömer Halit Cinar! 👋
 
-- C++ dev who carves nanosecond shortcuts through trading engines—and happily gets lost in any system wicked enough to call itself “complex.”
+- C++ dev who carves nanosecond shortcuts through trading engines
 - Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
 
