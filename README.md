@@ -1,6 +1,6 @@
 ### Hello, I'm Ömer Halit Cinar! 👋
 
-- C++ dev who carves nanosecond shortcuts through trading engines
+- Experienced in C++, Python and Rust with a focus on developing efficient, scalable solutions that optimize performance. Strong foundation in data structures and algorithms.
 - Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omerhalitcinar).
 
 
